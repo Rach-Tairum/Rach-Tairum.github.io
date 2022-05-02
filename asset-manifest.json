@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.9484b762.js",
-    "static/media/Solar_Sistem.png": "/portfolio/static/media/Solar_Sistem.deecf9fc821070a6632c.png",
-    "static/media/Foto_Perfil.png": "/portfolio/static/media/Foto_Perfil.117ffa636798b57af36e.png",
-    "static/media/Trybewarts.png": "/portfolio/static/media/Trybewarts.d11871375349ac96c9d1.png",
-    "static/media/Pixel_art.png": "/portfolio/static/media/Pixel_art.f9b48cb193d004811599.png",
-    "static/media/Shopping_cart.png": "/portfolio/static/media/Shopping_cart.e8915f6dc72498e9bfde.png",
-    "static/media/zoo_functions.png": "/portfolio/static/media/zoo_functions.cb37d17dd2f201309520.png",
-    "static/media/Lessons_Learned.png": "/portfolio/static/media/Lessons_Learned.0e1c6b8ad8fe3b60043e.png",
-    "static/media/js_unit_tests.png": "/portfolio/static/media/js_unit_tests.d2ee90365fd5886f3c6d.png",
-    "static/media/playground_functions.png": "/portfolio/static/media/playground_functions.34cf76c89c51bb9d0d0e.png",
-    "static/media/To_do_list.png": "/portfolio/static/media/To_do_list.8f35e51faad990960d0a.png",
-    "static/media/gmail.png": "/portfolio/static/media/gmail.0ff8c06a6baf11146cb1.png",
-    "index.html": "/portfolio/index.html",
-    "main.9484b762.js.map": "/portfolio/static/js/main.9484b762.js.map"
+    "main.js": "/static/js/main.dab65282.js",
+    "static/media/Solar_Sistem.png": "/static/media/Solar_Sistem.deecf9fc821070a6632c.png",
+    "static/media/Foto_Perfil.png": "/static/media/Foto_Perfil.117ffa636798b57af36e.png",
+    "static/media/Trybewarts.png": "/static/media/Trybewarts.d11871375349ac96c9d1.png",
+    "static/media/Pixel_art.png": "/static/media/Pixel_art.f9b48cb193d004811599.png",
+    "static/media/Shopping_cart.png": "/static/media/Shopping_cart.e8915f6dc72498e9bfde.png",
+    "static/media/zoo_functions.png": "/static/media/zoo_functions.cb37d17dd2f201309520.png",
+    "static/media/Lessons_Learned.png": "/static/media/Lessons_Learned.0e1c6b8ad8fe3b60043e.png",
+    "static/media/js_unit_tests.png": "/static/media/js_unit_tests.d2ee90365fd5886f3c6d.png",
+    "static/media/playground_functions.png": "/static/media/playground_functions.34cf76c89c51bb9d0d0e.png",
+    "static/media/To_do_list.png": "/static/media/To_do_list.8f35e51faad990960d0a.png",
+    "static/media/gmail.png": "/static/media/gmail.0ff8c06a6baf11146cb1.png",
+    "index.html": "/index.html",
+    "main.dab65282.js.map": "/static/js/main.dab65282.js.map"
   },
   "entrypoints": [
-    "static/js/main.9484b762.js"
+    "static/js/main.dab65282.js"
   ]
 }
